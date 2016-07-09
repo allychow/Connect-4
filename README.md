@@ -1,2 +1,2 @@
 # Connect-4
-Connect 4 built in Java with an AI (difficulty dependent on the depth set in code).
+This program is a replication of the classic Connect 4 game with the option of playing against the computer, or another person. The AI system utilizes a minimax algorithm to determine the best move it can make. The difficulty setting of the AI can be changed by adjusting the depth in code. The GUI uses alternation of panels to change game modes. Each execution of the program will track how many times each color, player or AI has won. Created by Allison Chow and Jack Liu (2015)
